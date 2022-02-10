@@ -1,0 +1,80 @@
+.box-1{
+  display: flex;
+  justify-content: center;
+}
+
+.sessao-1{
+  border: 2px solid red;
+  width: 250px;
+  height: 200px;
+  margin: 10px;
+  -webkit-box-shadow: -6px 3px 4px 5px #FB421A; 
+  box-shadow: -6px 3px 4px 5px #FB421A;
+}
+
+.sessao-2{
+  border: 2px solid red;
+  width: 550px;
+  height: 200px;
+  margin: 10px;
+  -webkit-box-shadow: -6px 3px 4px 5px #FB421A; 
+  box-shadow: -6px 3px 4px 5px #FB421A;
+}
+
+.box-2{
+  display: flex;
+  justify-content: center;
+}
+
+.container-1{
+  border: 2px solid red;
+  width: 550px;
+  height: 200px;
+  margin-top: 50px;
+  margin: 10px;
+  -webkit-box-shadow: -6px 3px 4px 5px #FB421A; 
+  box-shadow: -6px 3px 4px 5px #FB421A;
+}
+
+.container-2{
+  border: 2px solid red;
+  width: 250px;
+  height: 200px;
+  margin-top: 50px;
+  margin: 10px;
+  -webkit-box-shadow: -6px 3px 4px 5px #FB421A; 
+  box-shadow: -6px 3px 4px 5px #FB421A;
+}
+
+.box-3{
+  display: flex;
+  justify-content: center;
+}
+
+.caixa-1{
+  border: 2px solid red;
+  width: 250px;
+  height: 200px;
+  margin: 10px;
+  -webkit-box-shadow: -6px 3px 4px 5px #FB421A; 
+  box-shadow: -6px 3px 4px 5px #FB421A;
+}
+
+.caixa-2{
+  border: 2px solid red;
+  width: 550px;
+  height: 200px;
+  margin: 10px;
+  -webkit-box-shadow: -6px 3px 4px 5px #FB421A; 
+  box-shadow: -6px 3px 4px 5px #FB421A;
+}
+
+.card nav ul li a{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  border: 2px solid red;
+  width: 80px;
+  height: 15px;
+  padding: 2px;
+}
